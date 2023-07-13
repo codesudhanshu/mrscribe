@@ -1,0 +1,316 @@
+.navigation
+{
+  background-color: black;
+  display: flex;
+  justify-content:space-between;
+  padding: 0 4em;
+}
+
+.navigation-head
+{
+  color: white;
+  font-size: 1.3em;
+}
+
+.navigation-bar
+{
+  padding-top: 0.7em;
+}
+
+.icons-points{
+  background-color: blue;
+  padding: 2em;
+  text-align: center;
+  align-items: center;
+}
+
+.icons-clo
+{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 3em 0 0 0;
+  gap: 7em;
+}
+
+.text-content
+{
+  width: 40em;
+}
+
+.text-data
+{
+  margin: 2em 23em;
+}
+
+.footer
+{
+  padding: 2em 0;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons{
+  margin-right: 3em;
+}
+
+.navigation-saved
+{
+  font-size: 1.2em;
+  text-decoration: none;
+  color: blue;
+}
+
+.heading
+{
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  padding:5px;
+}
+.last-data
+{
+  color: red;
+  margin-top: -.3em;
+  margin-bottom: -.3em;
+}
+
+.datafield-name
+{
+  margin-left: 5em;
+}
+
+
+.social-media
+{
+ margin-left: 1em;
+}
+
+.userdata
+{
+  margin-left:28em;
+}
+
+.text
+{
+  width: 30em;
+}
+
+.links{
+  text-align: center;
+}
+
+
+@media screen and (max-width:600px) {
+  .navigation
+{
+  background-color: black;
+  display: flex;
+  justify-content:space-between;
+  padding: 0 4em;
+}
+
+.navigation-head
+{
+  color: white;
+  font-size: 1.3em;
+}
+
+.navigation-bar
+{
+  padding-top: 0.7em;
+}
+
+.icons-points{
+  background-color: blue;
+  padding: 2em;
+  text-align: center;
+  align-items: center;
+}
+
+.icons-clo
+{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 3em 0 0 0;
+  gap: 7em;
+}
+
+.text-content
+{
+  width: 20em;
+}
+
+.text-data
+{
+  margin: 2em;
+}
+
+.footer
+{
+  width: 100%;
+  padding: 2em 0;
+  background-color: black;
+  display: inline-block;
+}
+
+.icons{
+ 
+  margin-left: 1em;
+}
+
+.navigation-saved
+{
+  font-size: 1.2em;
+  text-decoration: none;
+  color: blue;
+}
+
+.heading
+{
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  padding:5px;
+}
+.last-data
+{
+  color: red;
+  margin-top: -.3em;
+  margin-bottom: -.3em;
+}
+
+.datafield-name
+{
+  margin-left:2em;
+}
+
+
+.social-media
+{
+ margin-left: 1em;
+}
+
+.userdata
+{
+  margin-left:28em;
+}
+
+.text
+{
+  width: 30em;
+}
+
+.links{
+  text-align: center;
+}
+
+}
+
+@media screen and (min-width:900px) {
+  .navigation
+  {
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+    padding: 0 4em;
+  }
+  
+  .navigation-head
+  {
+    color: white;
+    font-size: 1.3em;
+  }
+  
+  .navigation-bar
+  {
+    padding-top: 0.7em;
+  }
+  
+  .icons-points{
+    background-color: blue;
+    padding: 2em;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .icons-clo
+  {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 3em 0 0 0;
+    gap: 7em;
+  }
+  
+  .text-content
+  {
+    width: 30em;
+  }
+  
+  .text-data
+  {
+    margin: 2em;
+  }
+  
+  .footer
+  {
+    width: 100%;
+    padding: 2em 0;
+    background-color: black;
+    display: inline-block;
+  }
+  
+  .icons{
+   
+    margin-left: 1em;
+  }
+  
+  .navigation-saved
+  {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .heading
+  {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding:5px;
+  }
+  .last-data
+  {
+    color: red;
+    margin-top: -.3em;
+    margin-bottom: -.3em;
+  }
+  
+  .datafield-name
+  {
+    margin-left:2em;
+  }
+  
+  
+  .social-media
+  {
+   margin-left: 1em;
+  }
+  
+  .userdata
+  {
+    margin-left:28em;
+  }
+  
+  .text
+  {
+    width: 30em;
+  }
+  
+  .links{
+    text-align: center;
+  }
+}
